@@ -1,0 +1,36 @@
+{
+  "name": "missybur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "fixed-data-table": "^0.6.0",
+    "react": "^0.14.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Missybur/React_Table_Component.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Missybur/React_Table_Component/issues"
+  },
+  "homepage": "https://github.com/Missybur/React_Table_Component#readme",
+  "engines": {
+    "node": "0.12.x"
+  }
+}
